@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cangulo.common.testing.dataatributes", "cangulo.common.testing.dataatributes\cangulo.common.testing.dataatributes.csproj", "{9A789207-3F35-42A9-AEB6-02682BCB2202}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cangulo.common.testing.dataatributes.UT", "cangulo.common.testing.dataatributes.UT\cangulo.common.testing.dataatributes.UT.csproj", "{1B0415BE-7963-444C-9450-546A2E73EADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A789207-3F35-42A9-AEB6-02682BCB2202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A789207-3F35-42A9-AEB6-02682BCB2202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A789207-3F35-42A9-AEB6-02682BCB2202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A789207-3F35-42A9-AEB6-02682BCB2202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0415BE-7963-444C-9450-546A2E73EADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0415BE-7963-444C-9450-546A2E73EADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0415BE-7963-444C-9450-546A2E73EADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0415BE-7963-444C-9450-546A2E73EADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B882DB0-6EDD-4378-81E4-F0BFBEDB1D8A}
+	EndGlobalSection
+EndGlobal

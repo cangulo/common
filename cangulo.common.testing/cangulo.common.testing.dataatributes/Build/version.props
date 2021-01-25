@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <PackageId>cangulo.common.testing</PackageId>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <VersionSuffix>alpha</VersionSuffix>
+    <Authors>Carlos Angulo</Authors>
+    <Company>Carlos Angulo</Company>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+</Project>
